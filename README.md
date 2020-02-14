@@ -1,7 +1,7 @@
 @wanghaoxue
 
 website：wanghaoxue.com
-<img src="assets/screenshot/screenshot3.png" height="280px" />
+<img src="platelet-master/assets/screenshot/screenshot3.png" height="280px" />
 
 ## Features
 
