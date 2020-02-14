@@ -22,9 +22,7 @@ website：wanghaoxue.com
 * [猫与向日葵](https://imjad.cn/archives/lab/add-dynamic-poster-girl-with-live2d-to-your-blog-03 "猫与向日葵")
 * [Denchi](https://twitter.com/DenchiSoft/status/1036017773011525632 "Denchi")
 
-## Video
 
-* https://youtu.be/8m122AfE5U8
 
 ## Screenshot
 
